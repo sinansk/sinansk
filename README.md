@@ -1,8 +1,8 @@
 # Hi there! I' m Sinan! #
 
 **I am trying to become a Frontend Developer with my mechanical engineering background.⚙️**
-**As a self taught, my journey started on end of August 2021. I love 🚗s, 🐈s, 🐕s, coding and so many things.**
 **I’m currently learning HTML, CSS, Bootstrap and JavaScript. I would like to learn React technologies aswell.**
+**As a self taught, my journey started on end of August 2021. I love 🚗s, 🐈s, 🐕s, coding and so many things.**
 
 *📍 Based in Yalova, TURKEY*
 
