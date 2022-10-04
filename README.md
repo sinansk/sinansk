@@ -2,7 +2,7 @@
 
 #### I am a Frontend Developer with my Mechanical Engineering background.⚙️ ####
 #### I’m currently using React, Redux Toolkit and ui libraries such as Tailwind, Styled Components.  ####
-#### I am also would like to learn NodeJs in the future.  ####
+#### I also would like to learn NodeJs in the future.  ####
 #### As a self taught, my journey started in 2021. I love 🚗s, 🐈s, 🐕s, coding and so many things. ####
 
 *📍 Based in Yalova, TURKEY*
