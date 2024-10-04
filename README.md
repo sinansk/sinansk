@@ -1,7 +1,7 @@
 # Hi there! I' m Sinan! #
 
 #### I am a Frontend Developer with my Mechanical Engineering background.⚙️ ####
-#### I’m currently using React, Redux Toolkit and ui libraries such as Tailwind, Styled Components.  ####
+#### I’m currently using React, Redux Toolkit and ui libraries such as Tailwind.  ####
 #### As a self taught, my journey started in 2021. I love 🚗s, 🐈s, 🐕s, coding and so many things. ####
 
 *📍 Based in Yalova, TURKEY*
